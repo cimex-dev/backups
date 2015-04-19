@@ -1,1 +1,1 @@
-options	root=/dev/sda2	rw quiet acpi_osi= elevator="deadline" add_efi_memmap i915.i915_enable_rc6=1 pcie_aspm=force drm.vblankoffdelay=1 i915.semaphores=1 nmi_watchdog=0
+rw quiet acpi_osi= elevator="deadline" add_efi_memmap i915.i915_enable_rc6=1 pcie_aspm=force drm.vblankoffdelay=1 i915.semaphores=1 nmi_watchdog=0
